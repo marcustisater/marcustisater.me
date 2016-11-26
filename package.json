@@ -1,9 +1,9 @@
 {
   "private": true,
   "name": "ls",
-  "homepage": "http://marcustisater.se",
+  "homepage": "https://marcustisater.github.io",
   "twitter": "MarcusTister",
-  "repository": "http://github.com/marcustisater",
+  "repository": "https://github.com/marcustisater/marcustisater.github.io",
   "scripts": {
     "lint:js": "eslint --ignore-path .gitignore --fix .",
     "lint:css": "stylelint \"src/**/*.css\"",
@@ -12,9 +12,6 @@
     "build": "phenomic build",
     "pretest": "npm run lint",
     "test": "npm run build"
-  },
-  "phenomic": {
-    "CNAME": true
   },
   "#babel": "webpack-(development|production) are useful for webpack 2, otherwise use development|production",
   "babel": {
