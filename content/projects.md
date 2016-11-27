@@ -1,18 +1,20 @@
 ---
 title: What now?
 layout: Page
-hero: https://unsplash.com/new?photo=7xpKKRu_59c
+hero: https://unsplash.com/?photo=jwIk4Z3Msi4
 
 ---
 
-**WordCamp Stockholm 2016** - I helped organize [WordCamp Stockholm 2016](http://2016.stockholm.wordcamp.org/) at [Internetdagarna](internetdagarna.se).
+I helped organize [WordCamp Stockholm 2016](http://2016.stockholm.wordcamp.org/) at [Internetdagarna](internetdagarna.se).
 
-**postcss.org** - Lead the development of [postcss.org](http://postcss.org) and trying to actively update it. I also helped with the [brand](https://github.com/postcss/brand).
+Lead the development of [postcss.org](http://postcss.org) and trying to actively update it. I also helped with the [brand](https://github.com/postcss/brand).
 
-**wpsv.se** - developed WordPress Sveriges new theme in WordPress [https://github.com/wpsvse/wpsvse/](https://github.com/wpsvse/wpsvse/).
+I developed [WordPress Sveriges](http://wpsv.se) new theme in WordPress together with [Mattias Tengblad](http://eyesx.com/) -  [https://github.com/wpsvse/wpsvse/](https://github.com/wpsvse/wpsvse/).
 
-**talks** - [http://slides.com/marcustisater/deck-1-2#/](http://slides.com/marcustisater/deck-1-2#/)
+I have been doing lead front-end work on various projects for [happiness.se](http://www.happiness.se) - [Portfolio](http://www.happiness.se/portfolio).
 
-**Happiness.se** - Been doing lead front-end work on various projects. [Portfolio](http://www.happiness.se/portfolio).
+**Sometimes I give talks...**
+* [http://slides.com/marcustisater/deck-1-2#/](http://slides.com/marcustisater/deck-1-2#/)
+* [http://marcustisater.github.io/postcss-presentation/#/](http://marcustisater.github.io/postcss-presentation/#/)
 
 Most of the stuff I have done is on Gitub... and it's opensource.
