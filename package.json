@@ -3,6 +3,7 @@
   "name": "ls",
   "homepage": "http://marcustisater.se",
   "twitter": "MarcusTister",
+  "googleAnalytics": "UA-55189287-1",
   "repository": "https://github.com/marcustisater/marcustisater.github.io",
   "scripts": {
     "lint:js": "eslint --ignore-path .gitignore --fix .",
@@ -109,6 +110,7 @@
     "history": "^2.0.0",
     "json-loader": "^0.5.2",
     "npm-run-all": "^1.7.0",
+    "phenomic": "^0.19.5",
     "postcss-browser-reporter": "^0.4.0",
     "postcss-cssnext": "^2.4.0",
     "postcss-loader": "^0.13.0",
@@ -116,6 +118,7 @@
     "raw-loader": "^0.5.1",
     "react": "^15.0.0-rc.1",
     "react-dom": "^15.0.0-rc.1",
+    "react-ga": "^2.1.2",
     "react-helmet": "^3.0.0",
     "react-hot-loader": "^3.0.0-beta",
     "react-redux": "^4.0.0",
@@ -127,7 +130,6 @@
     "stylelint": "^7.2.0",
     "warning": "^3.0.0",
     "webpack": "^1.11.0",
-    "whatwg-fetch": "^0.11.0",
-    "phenomic": "^0.19.5"
+    "whatwg-fetch": "^0.11.0"
   }
 }
