@@ -7,7 +7,7 @@ const Footer = () => (
     { /* I still love you Phenomic <3 */ }
     <p className={ styles.ref } >
         { "Want to get in touch? "}
-        <a href="mailto:marcus.tisater@gmail.com">
+        <a className= {styles.refunderline} href="mailto:marcus.tisater@gmail.com">
         { "You can always write me"}
         </a>
     </p>

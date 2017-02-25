@@ -55,7 +55,7 @@ const Page = (
         <div
           className={ styles.hero }
           style={ head.hero && {
-            background: `#111 url(${ head.hero }) 50% 50% / cover`,
+            background: `#111 url(${ head.hero }) 25% 25% / cover`,
           } }
         >
           <div className={ styles.header }>
