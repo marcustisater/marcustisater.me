@@ -1,7 +1,6 @@
 ---
-title: Howdy,
 layout: Homepage
-hero: assets/meetup.jpeg
+hero: assets/meetup-marcus.png
 ---
 
 # Hello! 👋

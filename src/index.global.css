@@ -70,3 +70,10 @@ hr {
   opacity: 0.2;
   margin: 2rem 0;
 }
+
+img {
+  display: block;
+  margin: 2rem auto;
+  max-width: 100%;
+  height: auto;
+}

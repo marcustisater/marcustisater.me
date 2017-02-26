@@ -1,7 +1,7 @@
 ---
 title: What now?
 layout: Page
-hero: https://unsplash.com/?photo=jwIk4Z3Msi4
+hero: /assets/meetup.jpeg
 
 ---
 
