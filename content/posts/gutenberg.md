@@ -1,9 +1,9 @@
----
+<!-- ---
 title: WordPress Gutenberg User Testing
 date: 2017-02-25
 layout: Post
 hero: /assets/gutenberg.png
----
+--- -->
 
 Last week we organized our seventh local WordPress meetup in Stockholm 🙌 and for this one we wanted to do a preview of the new upcoming WordPress editor, Gutenberg. We had 8 particpants who was willing to give it a try, some were developers and others fairly new to WordPress.
 
