@@ -3,7 +3,7 @@
   "name": "ls",
   "homepage": "http://www.marcustisater.me/",
   "twitter": "MarcusTister",
-  "googleAnalytics": "UA-55189287-1",
+  "googleAnalyticsUA": "UA-55189287-1",
   "repository": "https://github.com/marcustisater/marcustisater.github.io",
   "scripts": {
     "lint:js": "eslint --ignore-path .gitignore --fix .",
