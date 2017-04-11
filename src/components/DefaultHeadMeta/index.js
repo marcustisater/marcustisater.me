@@ -19,6 +19,12 @@ const DefaultHeadMeta = (props, { metadata: { pkg } }) => (
       ] }
     />
 
+    <Helmet
+      meta={ [ {
+        name: "google-site-verification", content: "rnWiV4XOitS5U78_iQlD8hETVUKkdUdPhONPYnnh2xQ",
+      } ] }
+    />
+
     { /* meta viewport safari/chrome/edge */ }
     <Helmet
       meta={ [ {
